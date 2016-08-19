@@ -1,0 +1,27 @@
+* {
+	background-color: lightgreen;
+}
+
+
+body {
+	text-align: center;
+}
+h1 {
+	font-family: Verdana;
+	color: Green;
+	font-size: 36px;
+	text-align: center;
+}
+img {
+	margin-right: 50px;
+	margin-left:50px;
+	
+p {
+	font-family: cursive;
+	font-size: 20px;
+	font-style: italic;
+	color: Green;
+
+
+}
+}
